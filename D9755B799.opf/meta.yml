@@ -6,7 +6,15 @@ imported: '2022-06-27T04:24:43+00:00'
 last_modified: '2022-06-27T10:04:32.228101+00:00'
 parser: null
 source_metadata:
-  id: bdr:W2KG5015
+  bdrc-instance-id: W2KG5015
+  creation_method: proofreading, annotation-transfer
+  soucre: 
+      base_file: 
+        id: D3871/narthang.txt  #<rkts_text_id>/<edition>
+        initial_creation_type: input
+      line_page_info: 
+        id: IF6EAA761/I2KG212398  #<pecha_id>/<bdrc_image_group_id>
+        initial_creation_type: OCR
   base:
     ADC7:
       image_group_id: I2KG212398
